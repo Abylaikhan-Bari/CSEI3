@@ -1,0 +1,7 @@
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\bin\Debug\Module2PT.exe.config
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\bin\Debug\Module2PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\bin\Debug\Module2PT.pdb
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\obj\Debug\Module2PT.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\obj\Debug\Module2PT.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\obj\Debug\Module2PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module2PT\Module2PT\obj\Debug\Module2PT.pdb
