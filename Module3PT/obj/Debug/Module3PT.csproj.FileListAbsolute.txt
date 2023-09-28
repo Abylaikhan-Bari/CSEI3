@@ -1,0 +1,7 @@
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\bin\Debug\Module3PT.exe.config
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\bin\Debug\Module3PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\bin\Debug\Module3PT.pdb
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\obj\Debug\Module3PT.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\obj\Debug\Module3PT.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\obj\Debug\Module3PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module3PT\Module3PT\obj\Debug\Module3PT.pdb
