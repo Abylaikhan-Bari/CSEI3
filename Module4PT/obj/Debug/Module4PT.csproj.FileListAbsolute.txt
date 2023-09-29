@@ -1,0 +1,7 @@
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\bin\Debug\Module4PT.exe.config
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\bin\Debug\Module4PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\bin\Debug\Module4PT.pdb
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\obj\Debug\Module4PT.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\obj\Debug\Module4PT.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\obj\Debug\Module4PT.exe
+C:\Users\Abylaikhan Bari\source\repos\Module4PT\Module4PT\obj\Debug\Module4PT.pdb
