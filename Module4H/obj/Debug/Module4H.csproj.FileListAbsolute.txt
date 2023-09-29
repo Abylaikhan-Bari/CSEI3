@@ -1,0 +1,7 @@
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\obj\Debug\Module4H.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\obj\Debug\Module4H.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\bin\Debug\Module4H.exe.config
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\bin\Debug\Module4H.exe
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\bin\Debug\Module4H.pdb
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\obj\Debug\Module4H.exe
+C:\Users\Abylaikhan Bari\source\repos\Module4H\Module4H\obj\Debug\Module4H.pdb
