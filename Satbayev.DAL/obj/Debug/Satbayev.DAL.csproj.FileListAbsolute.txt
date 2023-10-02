@@ -4,3 +4,6 @@ C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbay
 C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.CoreCompileInputs.cache
 C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.dll
 C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\bin\Debug\LiteDB.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\bin\Debug\LiteDB.xml
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.CopyComplete

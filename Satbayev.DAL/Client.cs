@@ -41,7 +41,6 @@ namespace Satbayev.DAL
         public string Password { get; set; }
         public string PhoneNumber { get; set; }
         public int IIN { get; set; }
-
         public Address Adress{ get; set; }
 
     }
