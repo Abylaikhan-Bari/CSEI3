@@ -1,0 +1,6 @@
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\bin\Debug\Satbayev.DAL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\bin\Debug\Satbayev.DAL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.DAL\obj\Debug\Satbayev.DAL.pdb
