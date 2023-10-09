@@ -1,0 +1,14 @@
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe.config
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.exe
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.ConsoleApp.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.exe
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.BLL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\LiteDB.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.BLL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\Satbayev.DAL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\bin\Debug\LiteDB.xml
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.ConsoleApp\obj\Debug\Satbayev.ConsoleApp.csproj.CopyComplete

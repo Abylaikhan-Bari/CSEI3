@@ -1,0 +1,11 @@
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\Satbayev.BLL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\Satbayev.BLL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\Satbayev.DAL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\LiteDB.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\Satbayev.DAL.pdb
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\bin\Debug\LiteDB.xml
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.AssemblyReference.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\obj\Debug\Satbayev.BLL.csproj.CopyComplete
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\obj\Debug\Satbayev.BLL.dll
+C:\Users\Abylaikhan Bari\source\repos\Satbayev.DAL\Satbayev.BLL\obj\Debug\Satbayev.BLL.pdb

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Satbayev.DAL
 {
-    internal class ReposityClient
+    public class ReposityClient
     {
         
         private string Path;
@@ -17,27 +17,52 @@ namespace Satbayev.DAL
         }
         public bool CreateClient(Client client)
         {
-            using (var db = new LiteDatabase(Path))
+            try
             {
-                // Get a collection (or create, if doesn't exist)
-                var clients = db.GetCollection<Client>("Client");
-                clients.Insert(client);
+                using (var db = new LiteDatabase(Path))
+                {
+                    // Get a collection (or create, if doesn't exist)
+                    var clients = db.GetCollection<Client>("Client");
+                    clients.Insert(client);
 
+                }
+            }
+            catch (Exception ex)
+            {
+                var err = ex;
+                throw;
             }
             return true;
         }
+
         public Client GetClient(string email, string password)
         {
-            using (var db = new LiteDatabase(Path))
+            try
             {
-                return db.GetCollection<Client>("Client").FindAll().First(f=>f.Email==email & f.Password==password);
+                using (var db = new LiteDatabase(Path))
+                {
+                    return db.GetCollection<Client>("Client").FindAll().First(f => f.Email == email & f.Password == password);
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
             }
         }
         public Client GetClient(int id)
         {
-            using (var db = new LiteDatabase(Path))
+            try
             {
-                return db.GetCollection<Client>("Client").FindAll().First(f => f.id == id);
+                using (var db = new LiteDatabase(Path))
+                {
+                    return db.GetCollection<Client>("Client").FindAll().First(f => f.Id == id);
+                }
+            }
+            catch (Exception)
+            {
+
+                throw;
             }
         }
     }
